@@ -6,13 +6,12 @@ The TodoList project is a web application that allows users to create, manage, a
 
 - Create new todo items
 - View all existing todo items
-- View individual todo item details
 - Delete completed todo items
 
-- Add new tasks: Easily add new tasks to your to-do list.
-- Delete tasks: Remove tasks from your to-do list when they are no longer needed.
-- Categorize tasks: Organize tasks into different categories or lists for better management.
-- User-friendly interface: A clean and intuitive interface for a smooth user experience.
+1. Add new tasks: Easily add new tasks to your to-do list.
+2. Delete tasks: Remove tasks from your to-do list when they are no longer needed.
+3. Categorize tasks: Organize tasks into different categories or lists for better management.
+4. User-friendly interface: A clean and intuitive interface for a smooth user experience.
 
 ## Technologies Used
 
