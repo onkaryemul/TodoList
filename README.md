@@ -1,6 +1,6 @@
 # TodoList Project
 
-This is a simple todo list project built with Node.js, Express, EJS, and MongoDB. It allows users to create, view, and manage their todo list items.
+The TodoList project is a web application that allows users to create, manage, and organize their tasks in a simple and efficient manner. With TodoList, you can keep track of your daily to-do items and stay organized.
 
 ## Features
 
@@ -8,6 +8,18 @@ This is a simple todo list project built with Node.js, Express, EJS, and MongoDB
 - View all existing todo items
 - View individual todo item details
 - Delete completed todo items
+
+- Add new tasks: Easily add new tasks to your to-do list.
+- Delete tasks: Remove tasks from your to-do list when they are no longer needed.
+- Categorize tasks: Organize tasks into different categories or lists for better management.
+- User-friendly interface: A clean and intuitive interface for a smooth user experience.
+
+## Technologies Used
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose (MongoDB object modeling tool)
 
 ## Dependencies
 
@@ -27,11 +39,12 @@ This is a simple todo list project built with Node.js, Express, EJS, and MongoDB
 ## Usage
 
 1. Navigate to the root route `/` to see the list of all existing todo items.
-2. Click on the "Compose" link to create a new todo item.
-3. View individual todo item details by clicking on the item title.
-4. Delete a completed todo item by clicking on the "Delete" button.
+2. Start adding tasks to your to-do list using the "Add Task" or "+" button.
+3. Check off completed tasks, edit, or delete tasks as needed.
+4. Organize tasks into different categories or lists using the category feature.
+5. Enjoy a well-organized and efficient way to manage your tasks!
 
-## Author
+## Contributors
 
 Onkar Yemul
 
